@@ -1,2 +1,5 @@
 # Skip node_nmodules
 node_modules/
+
+# No enviroment variables in repository
+.env
