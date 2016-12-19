@@ -1,0 +1,23 @@
+{
+  "name": "tips",
+  "version": "0.0.1",
+  "description": "Show information related to GC production",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab.cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/s019zr/tips.git"
+  },
+  "keywords": [
+    "information",
+    "greencargo"
+  ],
+  "author": "Tomas Einarsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s019zr/tips/issues"
+  },
+  "homepage": "https://github.com/s019zr/tips#readme"
+}
