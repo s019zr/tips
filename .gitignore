@@ -1,5 +1,11 @@
-# Skip node_nmodules
+# Skip node nmodules
 node_modules/
 
-# No enviroment variables in repository
+# No idea stuff
+.idea/
+
+# No environment variables in repository
 .env
+
+# No data
+plugins/tips_python_adapter/test/data
